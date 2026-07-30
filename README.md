@@ -14,6 +14,11 @@
 </div>
 
 ---
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+https://spam-email-classifier-5o32ujkgusmb42pcgp8bfc.streamlit.app/
 
 # 📖 Overview
 

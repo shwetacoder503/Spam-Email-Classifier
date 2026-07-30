@@ -396,7 +396,5 @@ It motivates future development.
 
 This project is licensed under the MIT License.
 
-```
 
----
 
